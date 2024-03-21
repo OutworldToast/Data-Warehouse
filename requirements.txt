@@ -3,3 +3,5 @@ jupyter_core==5.7.2
 numpy==1.26.4
 pandas==2.2.1
 pyodbc==5.1.0
+sqlalchemy
+matplotlib
